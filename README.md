@@ -82,7 +82,7 @@ The code consists of the following components:
 
 The code uses the following libraries and plugins:
 
-1. **React**: The core library for building user interfaces in JavaScript.
+1. **React with TypeScript**: The core library for building user interfaces in TypeScript.
 
 2. **React Native**: A framework for building native mobile apps using React.
 
@@ -107,6 +107,5 @@ This app uses the following dependencies:
 ## License
 
 
-This project is licensed under the MIT License. Feel free to modify and use the code for your own purposes.
-
+This project is licensed under the MIT License.
 
