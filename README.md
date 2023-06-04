@@ -2,7 +2,7 @@
 
 This is a contact app built with React Native. It allows you to manage your contacts, search for contacts, add new contacts, edit existing contacts, and delete contacts. You can also call, send SMS, and email contacts directly from the app.
 
-[Download APK](apk/app-release.apk)
+[Download APK](https://drive.google.com/file/d/1IDePv2EiwoWUB772QO8YC4qate_NlFfB/view?usp=sharing)
 
 ## Features
 
